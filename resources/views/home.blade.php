@@ -1,8 +1,5 @@
 @extends('layouts.app')
 
-@index_active
-@stop
-
 @section('content')
 <div class="p-5 mb-4 bg-white rounded-3 shadow-sm border text-center">
     <div class="container-fluid py-5">
